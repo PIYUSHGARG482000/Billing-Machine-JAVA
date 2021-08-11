@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">Tic Tac Toe</string>
-    <string name="heading">Welcome to Tic-Tac-Toe</string>
-    <string name="grid">Main grid</string>
-    <string name="Button">Reset_Button</string>
-</resources>
